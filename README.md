@@ -1,2 +1,2 @@
-# hackthegithub
-I hack the Github Actions
+# Взломай GitHub
+Используя баг гитхаба можно получить сервер мак

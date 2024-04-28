@@ -14,7 +14,3 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run tests
-      run: sudo adduser frontend
-    
-    - name: God func
-      run: su frontend
